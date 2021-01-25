@@ -3,6 +3,10 @@
 ```
 $ pip install -r requirements
 ```
+Install ffmpeg
+```
+$ sudo apt install ffmpeg
+```
 
 2. Start the Flask app
 ```
